@@ -1,15 +1,11 @@
 # Daily WARP Endpoint Test Results
 
-Last updated on: 2025-10-17 01:09:44 UTC
+Last updated on: 2025-10-18 01:06:36 UTC
 
 ## Top IPv4 Endpoints
 
-*Note: Fewer than 10 suitable IPv4 endpoints were found (found: 1).*
+*No suitable IPv4 endpoints were found.*
 
-
-| Endpoint | Loss Rate (%) | Avg. Latency (ms) |
-|---|---|---|
-| `162.159.192.2:903` | 0.00 | 15.82 |
 
 ## Top IPv6 Endpoints
 
