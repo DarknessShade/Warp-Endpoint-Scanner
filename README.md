@@ -1,6 +1,6 @@
 # Daily WARP Endpoint Test Results
 
-Last updated on: 2026-04-07 01:59:34 UTC
+Last updated on: 2026-04-08 02:00:37 UTC
 
 ## Top IPv4 Endpoints
 
@@ -9,7 +9,7 @@ Last updated on: 2026-04-07 01:59:34 UTC
 
 | Endpoint | Loss Rate (%) | Avg. Latency (ms) |
 |---|---|---|
-| `162.159.192.17:1180` | 33.33 | 19.37 |
+| `162.159.195.4:943` | 0.00 | 17.06 |
 
 ## Top IPv6 Endpoints
 
