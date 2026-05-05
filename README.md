@@ -1,6 +1,6 @@
 # Daily WARP Endpoint Test Results
 
-Last updated on: 2026-05-04 02:29:10 UTC
+Last updated on: 2026-05-05 02:24:20 UTC
 
 ## Top IPv4 Endpoints
 
